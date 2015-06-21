@@ -1,2 +1,2 @@
 # node-mini-server
-a trvial nodejs server
+a trivial nodejs server
